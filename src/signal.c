@@ -1,4 +1,3 @@
-
 #include "mini.h"
 
 void	heredoc_sig(int sig)
